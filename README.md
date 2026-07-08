@@ -84,5 +84,3 @@ groq.api.url=https://api.groq.com/openai/v1/chat/completions
 - GitHub: https://github.com/Bishakha2502
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
